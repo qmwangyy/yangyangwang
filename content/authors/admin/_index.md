@@ -33,23 +33,21 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Yangyang-Wang-19
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=3G7-V1kAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-9396-7146
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bullying and victimization in K-12 grades
+  - Children's Developmental Behavior
+  - Educational policies particularly for students with disabilities
+  - Quantitative analysis
 
 education:
   - area: PhD Artificial Intelligence
@@ -112,7 +110,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: STATA
         description: ''
         percent: 80
         icon: code-bracket

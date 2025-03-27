@@ -44,8 +44,8 @@ profiles:
     url: https://orcid.org/0000-0001-9396-7146
 
 interests:
-  - Bullying and victimization in K-12 grades
-  - Children's Developmental Behavior
+  - Bullying and victimization in K-12 
+  - Children's developmental behavior
   - Educational policies particularly for students with disabilities
   - Quantitative analysis
 
@@ -140,12 +140,14 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: English
+    percent: 80
+  - name: Japanese
+    percent: 40
+  - name: French
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.

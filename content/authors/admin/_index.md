@@ -1,11 +1,11 @@
 ---
 # Display name
 title: 王阳阳
-font: STsong
+font-family: STsong
 
 # Name pronunciation (optional)
 name_pronunciation: WANG Yangyang
-font: Libre Baskerville
+font-family: Libre Baskerville
 
 # Full name (for SEO)
 first_name: Yangyang
@@ -26,7 +26,7 @@ role: Educational Policy Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: The Pennsylvania University
+  - name: The Pennsylvania State University
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
